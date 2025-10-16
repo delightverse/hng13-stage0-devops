@@ -4,7 +4,7 @@
 - My name is Ubah Delight Godson Okechukwu
 
 ### Slack username:
-- My Slack username is:
+- My Slack username is: @DelightU.
 
 ### Project Description:
 - This is a static web page served by NGINX as part of HNG Stage 0 of the HNG internship.
